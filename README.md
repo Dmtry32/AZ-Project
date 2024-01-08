@@ -1,4 +1,4 @@
-# AZ-Project
+# AZ-Project (how to boostrap your first pipeline )
 Step2: Create an Organization
 Before you can begin creating a new DevOps project, you need to create a New Organization. C.lick on “New Organization” on the left hand menu to create one now (or you can choose to use an existing organization)
 ![image](https://github.com/Dmtry32/AZ-Project/assets/88732558/d2943d32-657d-4de8-88b3-5f4c90f1f888)
